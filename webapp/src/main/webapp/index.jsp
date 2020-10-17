@@ -4,4 +4,4 @@
 <h2> updated by sunil 1st  times.....deplyoing on kubernetes cluster  using jenkins CI/CD pipeline  </h2>
 =======
 <h2> updated by Tanya Singh 0 times.....deploying on kubernetes cluster  using jenkins CI/CD pipeline  </h2>
->>>>>>> b138d9f178faade8797a6dce3568d7c7cd01c944
+
