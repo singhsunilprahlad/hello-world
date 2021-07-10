@@ -33,7 +33,7 @@ node {
         }
   
   stage('Deploy to Prod'){
-     
+    input message: 'Deploy to Production ', ok: 'Yes'     
             echo "Deployed to Prod "    
      
         }
