@@ -23,12 +23,18 @@ node {
         }
    stage('Push-imageDockerhub'){
      
-            echo "pushed to Dockerhub "    
+            echo "Pushed to Dockerhub "    
      
         }
   stage('Deploy to Dev'){
      
-            echo "pushed to Dockerhub "    
+            echo "Deployed to Development Environment "    
+     
+        }
+  
+  stage('Deploy to Prod'){
+     
+            echo "Deployed to Prod "    
      
         }
   }
